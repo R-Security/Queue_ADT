@@ -1,0 +1,5 @@
+If you like to add values and delete them according to your values and data items, you can uncomment the last enqueue and dequeue lines of python file.
+Remember : -
+    EnQueue = used for adding the data
+     DeQueue = used for deleting the data
+You can use the live_track function to keep a track of the values you're setting and deleting in the Queue.
